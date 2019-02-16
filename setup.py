@@ -1,14 +1,14 @@
 import multiprocessing
 from setuptools import setup
 
-setup(name='google-search-api',
+setup(name='Google-Search-API',
     version='1.0',
     py_modules=['google'],
     author='Munchii',
     author_email='contact@munchii.me',
     license='MIT',
     description='Google Search Python API.',
-    url='https://github.com/Dmunch04/api-example',
+    url='https://github.com/Dmunch04/Google-Search-API',
     classifiers=[
             "Development Status :: 4 - Beta",
             "Intended Audience :: End Users/Desktop",
